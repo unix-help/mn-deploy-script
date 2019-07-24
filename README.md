@@ -45,9 +45,9 @@ mnpro-cli mnsync status
 ```
 Also, if you want to check/start/stop **mnpr** , run one of the following commands as **root**:
 ```
-systemctl status MNPR.service #To check the service is running.
-systemctl start MNPR.service #To start mnpr service.
-systemctl stop MNPR.service #To stop mnpr service.
+systemctl status MNPRO.service #To check the service is running.
+systemctl start MNPRO.service #To start mnpr service.
+systemctl stop MNPRO.service #To stop mnpr service.
 
 ```
 ***
