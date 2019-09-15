@@ -3,8 +3,8 @@ Automatic MNPRO masternode installation script for ubuntu 16 server
 
 ## Installation:
 ```
- git clone https://github.com/unix-help/mn-deploy-script.git
- cd mn-deploy-script
+ git clone https://github.com/unix-help/new-mn-deploy-script.git
+ cd new-mn-deploy-script
  chmod -R 755 mnpro.sh
  bash mnpro.sh
 ```
