@@ -15,7 +15,7 @@ Automatic MNPRO masternode installation script for ubuntu 16 server
 After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps for Windows Wallet
 1. Open the Mnpr Wallet.
 2. Go to RECEIVE and create a New Address: **MN1**
-3. Send **REQUIRED-COLLATERAL** **MNPR** to **MN1**.
+3. Send **10000** **MNPR** to **MN1**.
 4. Wait for confirmations.
 5. Go to **Tools -> "Debug console - Console"**
 6. Type the following command: **masternode outputs**
