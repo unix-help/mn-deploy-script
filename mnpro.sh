@@ -7,7 +7,7 @@ COIN_DAEMON='/usr/local/bin/mnprod'
 COIN_CLI='/usr/local/bin/mnpro-cli'
 COIN_REPO='https://github.com/unix-help/MNPROV2/releases/download/master/mnpro-daemon.tar.gz'
 COIN_NAME='MNPRO'
-COIN_PORT=7000
+COIN_PORT=3220
 
 
 NODEIP=$(curl -s4 icanhazip.com)
